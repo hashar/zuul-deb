@@ -1,5 +1,5 @@
-zuul (1.0-1) UNRELEASED; urgency=low
+zuul (1.2.0-1) unstable; urgency=low
 
-  * Initial release
+  * Initial release. Closes: #705844
 
- -- Paul Belanger <paul.belanger@polybeacon.com>  Fri, 12 Oct 2012 19:55:53 -0400
+ -- Paul Belanger <paul.belanger@polybeacon.com>  Sat, 20 Apr 2013 19:11:42 +0000
